@@ -1,0 +1,1341 @@
+Starting ...
+inside lexer constructor
+out of lexer constructor
+in alltokens()
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+In CharUtils.isNewline()
+In CharUtils.isNewline()
+In CharUtils.isNewline()
+In CharUtils.isNewline()
+In CharUtils.isNewline()
+In CharUtils.isNewline()
+In CharUtils.isNewline()
+In CharUtils.isNewline()
+In CharUtils.isNewline()
+In CharUtils.isNewline()
+In CharUtils.isNewline()
+In CharUtils.isNewline()
+In CharUtils.isNewline()
+In CharUtils.isNewline()
+In CharUtils.isNewline()
+In CharUtils.isNewline()
+In CharUtils.isNewline()
+In CharUtils.isNewline()
+In CharUtils.isNewline()
+In CharUtils.isNewline()
+In CharUtils.isNewline()
+In CharUtils.isNewline()
+In CharUtils.isNewline()
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+in next token
+in skip white spaces and newlines
+In CharUtils.isNewline()
+out of skip white spaces and newlines
+going out of allTokens()
+[
+  Token {
+    type: 'identifier',
+    value: 'circle_circumference',
+    line: 0,
+    column: 0
+  },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  Token { type: 'identifier', value: '', line: 0, column: 44 },
+  ... 200 more items
+]
